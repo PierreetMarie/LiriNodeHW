@@ -1,0 +1,49 @@
+body {
+    background: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/video-games-and-block-chain.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: bold;
+    background-color:black;
+}
+
+.ratings {
+    color: red;
+    font-family: avenir;
+    font-size: 18px;
+}
+
+h1 {
+    color: blue;
+    font-size: 45px;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: rgb(117, 117, 107);
+    color: blue;
+}
+
+@media screen and (max-width: 480px) {
+    .movImage {
+        width: 500px;
+        height: 500px;
+    }
+    body {
+        background-color: red;
+    }
+}
+
+.form-control {
+    width: 30%;
+}
+
+#add {
+    font-size: 20px;
+    color: red;
+   
+}
